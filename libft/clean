@@ -1,0 +1,1 @@
+find . -name "*.o" -exec /bin/rm -i {} \;
